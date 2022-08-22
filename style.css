@@ -1,0 +1,19 @@
+.container {
+  width: 60%;
+  height: 300px;
+  margin: 0 auto;
+  background-color: blueviolet;
+  display: flex;
+}
+
+/* .to-center {
+  background-color: chartreuse;
+  width: 50%;
+  height: 100%;
+  margin: 0 auto;
+  text-align: center;
+} */
+
+.to-center {
+  margin: auto;
+}
